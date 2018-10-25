@@ -1,0 +1,5 @@
+Note : Since the models were trianed on google colab, we have imported accordingly. Hence please use colab while running the code. The files were uploaded to gitlab and were pulled from there for running the code.
+
+Kindly run the command : !git clone https://github.com/mixuala/colab_utils.git
+
+before running the code on google colab to see the tensorboard output.

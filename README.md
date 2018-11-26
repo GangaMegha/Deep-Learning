@@ -3,10 +3,12 @@ This repository consists of both Python and Tensorflow scripts implementing :
 
 ## 1 : Backpropagation :
 Implementation of a neural network in python, with tunable number of layers and number of neurons in each layer along with hyper parameters such as 
-       Activation : sigmoid, tanh
+
+       Activation : sigmoid, tanh       
        Loss       : Cross Entropy, Squared Error
        Optimiser  : Adam, GD, Momentum, NAG
-       Anneal     : True, Falses                                                     ; specified as runtime arguements
+       Anneal     : True, Falses                  
+specified as runtime arguements
        
 ## 2 : CNN :
 Implementation of a Convolutional Neural Network using Tensorflow (used to train Fashion MNIST Dataset)

@@ -1,0 +1,8 @@
+clean.py- used for cleaning scraped content from the web
+demow2v.sh,demo.sh - for training word2vec and glove
+demo_eval2.sh,demow2v.sh-for evaluating trained models
+eval.py,evalw2v.py-evaluation code for models
+log_eval-log file for evaluation
+zip file-latex
+PA2_dl.pdf-report
+

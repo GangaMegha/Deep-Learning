@@ -1,0 +1,2497 @@
+
+
+
+skipgram/vector_neg5_0_025_100_4.txt
+
+Semantic relatedness checking.......
+
+
+Total number of test cases : 31
+Number of test cases ignored due to the absence of words in the vocabulary : 1
+Number of test cases considered : 30
+
+Writing output into cosine_val.txt ....
+
+Done.
+
+
+
+
+Synonymn detection.......
+
+
+Total number of test cases : 35
+Number of test cases ignored due to the absence of words in the vocabulary : 15
+Number of test cases considered : 20
+
+
+Writing output into synonymn.txt .....
+
+Accuracy : 55.0
+
+Done.
+
+
+
+
+Word Analogy.......
+
+
+Total number of test cases : 92
+Number of test cases ignored due to the absence of words in the vocabulary : 88
+Number of test cases considered : 4
+
+
+Writing output into analogy.txt .....
+Done.
+
+
+
+
+Odd one out.......
+
+
+Total number of test cases : 24
+Number of test cases ignored due to the absence of words in the vocabulary : 0
+Number of test cases considered : 24
+
+
+Writing output into odd_one.txt .....
+
+Accuracy : 41.666666666666664
+
+Done.
+
+
+
+
+Fill in the blanks.......
+
+
+Total number of test cases : 30
+
+
+Writing output into sentence_fill.txt .....
+
+Accuracy : 48.275862068965516
+
+Done.
+
+
+
+cbow_models/vector_0_05_100_4.txt
+
+Semantic relatedness checking.......
+
+
+Total number of test cases : 31
+Number of test cases ignored due to the absence of words in the vocabulary : 1
+Number of test cases considered : 30
+
+Writing output into cosine_val.txt ....
+
+Done.
+
+
+
+
+Synonymn detection.......
+
+
+Total number of test cases : 35
+Number of test cases ignored due to the absence of words in the vocabulary : 15
+Number of test cases considered : 20
+
+
+Writing output into synonymn.txt .....
+
+Accuracy : 50.0
+
+Done.
+
+
+
+
+Word Analogy.......
+
+
+Total number of test cases : 92
+Number of test cases ignored due to the absence of words in the vocabulary : 88
+Number of test cases considered : 4
+
+
+Writing output into analogy.txt .....
+Done.
+
+
+
+
+Odd one out.......
+
+
+Total number of test cases : 24
+Number of test cases ignored due to the absence of words in the vocabulary : 0
+Number of test cases considered : 24
+
+
+Writing output into odd_one.txt .....
+
+Accuracy : 33.333333333333336
+
+Done.
+
+
+
+
+Fill in the blanks.......
+
+
+Total number of test cases : 30
+
+
+Writing output into sentence_fill.txt .....
+
+Accuracy : 41.37931034482759
+
+Done.
+
+
+
+cbow_models/vector_0_05_200_4.txt
+
+Semantic relatedness checking.......
+
+
+Total number of test cases : 31
+Number of test cases ignored due to the absence of words in the vocabulary : 1
+Number of test cases considered : 30
+
+Writing output into cosine_val.txt ....
+
+Done.
+
+
+
+
+Synonymn detection.......
+
+
+Total number of test cases : 35
+Number of test cases ignored due to the absence of words in the vocabulary : 15
+Number of test cases considered : 20
+
+
+Writing output into synonymn.txt .....
+
+Accuracy : 60.0
+
+Done.
+
+
+
+
+Word Analogy.......
+
+
+Total number of test cases : 92
+Number of test cases ignored due to the absence of words in the vocabulary : 88
+Number of test cases considered : 4
+
+
+Writing output into analogy.txt .....
+Done.
+
+
+
+
+Odd one out.......
+
+
+Total number of test cases : 24
+Number of test cases ignored due to the absence of words in the vocabulary : 0
+Number of test cases considered : 24
+
+
+Writing output into odd_one.txt .....
+
+Accuracy : 29.166666666666668
+
+Done.
+
+
+
+
+Fill in the blanks.......
+
+
+Total number of test cases : 30
+
+
+Writing output into sentence_fill.txt .....
+
+Accuracy : 41.37931034482759
+
+Done.
+
+
+
+cbow_models/vector_0_05_300_4.txt
+
+Semantic relatedness checking.......
+
+
+Total number of test cases : 31
+Number of test cases ignored due to the absence of words in the vocabulary : 1
+Number of test cases considered : 30
+
+Writing output into cosine_val.txt ....
+
+Done.
+
+
+
+
+Synonymn detection.......
+
+
+Total number of test cases : 35
+Number of test cases ignored due to the absence of words in the vocabulary : 15
+Number of test cases considered : 20
+
+
+Writing output into synonymn.txt .....
+
+Accuracy : 60.0
+
+Done.
+
+
+
+
+Word Analogy.......
+
+
+Total number of test cases : 92
+Number of test cases ignored due to the absence of words in the vocabulary : 88
+Number of test cases considered : 4
+
+
+Writing output into analogy.txt .....
+Done.
+
+
+
+
+Odd one out.......
+
+
+Total number of test cases : 24
+Number of test cases ignored due to the absence of words in the vocabulary : 0
+Number of test cases considered : 24
+
+
+Writing output into odd_one.txt .....
+
+Accuracy : 33.333333333333336
+
+Done.
+
+
+
+
+Fill in the blanks.......
+
+
+Total number of test cases : 30
+
+
+Writing output into sentence_fill.txt .....
+
+Accuracy : 37.93103448275862
+
+Done.
+
+
+
+cbow_models/vector_0_025_200_4.txt
+
+Semantic relatedness checking.......
+
+
+Total number of test cases : 31
+Number of test cases ignored due to the absence of words in the vocabulary : 1
+Number of test cases considered : 30
+
+Writing output into cosine_val.txt ....
+
+Done.
+
+
+
+
+Synonymn detection.......
+
+
+Total number of test cases : 35
+Number of test cases ignored due to the absence of words in the vocabulary : 15
+Number of test cases considered : 20
+
+
+Writing output into synonymn.txt .....
+
+Accuracy : 25.0
+
+Done.
+
+
+
+
+Word Analogy.......
+
+
+Total number of test cases : 92
+Number of test cases ignored due to the absence of words in the vocabulary : 88
+Number of test cases considered : 4
+
+
+Writing output into analogy.txt .....
+Done.
+
+
+
+
+Odd one out.......
+
+
+Total number of test cases : 24
+Number of test cases ignored due to the absence of words in the vocabulary : 0
+Number of test cases considered : 24
+
+
+Writing output into odd_one.txt .....
+
+Accuracy : 29.166666666666668
+
+Done.
+
+
+
+
+Fill in the blanks.......
+
+
+Total number of test cases : 30
+
+
+Writing output into sentence_fill.txt .....
+
+Accuracy : 31.03448275862069
+
+Done.
+
+
+
+cbow_models/vector_0_075_200_4.txt
+
+Semantic relatedness checking.......
+
+
+Total number of test cases : 31
+Number of test cases ignored due to the absence of words in the vocabulary : 1
+Number of test cases considered : 30
+
+Writing output into cosine_val.txt ....
+
+Done.
+
+
+
+
+Synonymn detection.......
+
+
+Total number of test cases : 35
+Number of test cases ignored due to the absence of words in the vocabulary : 15
+Number of test cases considered : 20
+
+
+Writing output into synonymn.txt .....
+
+Accuracy : 55.0
+
+Done.
+
+
+
+
+Word Analogy.......
+
+
+Total number of test cases : 92
+Number of test cases ignored due to the absence of words in the vocabulary : 88
+Number of test cases considered : 4
+
+
+Writing output into analogy.txt .....
+Done.
+
+
+
+
+Odd one out.......
+
+
+Total number of test cases : 24
+Number of test cases ignored due to the absence of words in the vocabulary : 0
+Number of test cases considered : 24
+
+
+Writing output into odd_one.txt .....
+
+Accuracy : 29.166666666666668
+
+Done.
+
+
+
+
+Fill in the blanks.......
+
+
+Total number of test cases : 30
+
+
+Writing output into sentence_fill.txt .....
+
+Accuracy : 41.37931034482759
+
+Done.
+
+
+
+cbow_models/vector_0_090_200_4.txt
+
+Semantic relatedness checking.......
+
+
+Total number of test cases : 31
+Number of test cases ignored due to the absence of words in the vocabulary : 1
+Number of test cases considered : 30
+
+Writing output into cosine_val.txt ....
+
+Done.
+
+
+
+
+Synonymn detection.......
+
+
+Total number of test cases : 35
+Number of test cases ignored due to the absence of words in the vocabulary : 15
+Number of test cases considered : 20
+
+
+Writing output into synonymn.txt .....
+
+Accuracy : 45.0
+
+Done.
+
+
+
+
+Word Analogy.......
+
+
+Total number of test cases : 92
+Number of test cases ignored due to the absence of words in the vocabulary : 88
+Number of test cases considered : 4
+
+
+Writing output into analogy.txt .....
+Done.
+
+
+
+
+Odd one out.......
+
+
+Total number of test cases : 24
+Number of test cases ignored due to the absence of words in the vocabulary : 0
+Number of test cases considered : 24
+
+
+Writing output into odd_one.txt .....
+
+Accuracy : 50.0
+
+Done.
+
+
+
+
+Fill in the blanks.......
+
+
+Total number of test cases : 30
+
+
+Writing output into sentence_fill.txt .....
+
+Accuracy : 48.275862068965516
+
+Done.
+
+
+
+cbow_models/vector_0_05_200_3.txt
+
+Semantic relatedness checking.......
+
+
+Total number of test cases : 31
+Number of test cases ignored due to the absence of words in the vocabulary : 1
+Number of test cases considered : 30
+
+Writing output into cosine_val.txt ....
+
+Done.
+
+
+
+
+Synonymn detection.......
+
+
+Total number of test cases : 35
+Number of test cases ignored due to the absence of words in the vocabulary : 15
+Number of test cases considered : 20
+
+
+Writing output into synonymn.txt .....
+
+Accuracy : 50.0
+
+Done.
+
+
+
+
+Word Analogy.......
+
+
+Total number of test cases : 92
+Number of test cases ignored due to the absence of words in the vocabulary : 88
+Number of test cases considered : 4
+
+
+Writing output into analogy.txt .....
+Done.
+
+
+
+
+Odd one out.......
+
+
+Total number of test cases : 24
+Number of test cases ignored due to the absence of words in the vocabulary : 0
+Number of test cases considered : 24
+
+
+Writing output into odd_one.txt .....
+
+Accuracy : 29.166666666666668
+
+Done.
+
+
+
+
+Fill in the blanks.......
+
+
+Total number of test cases : 30
+
+
+Writing output into sentence_fill.txt .....
+
+Accuracy : 41.37931034482759
+
+Done.
+
+
+
+cbow_models/vector_0_05_200_5.txt
+
+Semantic relatedness checking.......
+
+
+Total number of test cases : 31
+Number of test cases ignored due to the absence of words in the vocabulary : 1
+Number of test cases considered : 30
+
+Writing output into cosine_val.txt ....
+
+Done.
+
+
+
+
+Synonymn detection.......
+
+
+Total number of test cases : 35
+Number of test cases ignored due to the absence of words in the vocabulary : 15
+Number of test cases considered : 20
+
+
+Writing output into synonymn.txt .....
+
+Accuracy : 65.0
+
+Done.
+
+
+
+
+Word Analogy.......
+
+
+Total number of test cases : 92
+Number of test cases ignored due to the absence of words in the vocabulary : 88
+Number of test cases considered : 4
+
+
+Writing output into analogy.txt .....
+Done.
+
+
+
+
+Odd one out.......
+
+
+Total number of test cases : 24
+Number of test cases ignored due to the absence of words in the vocabulary : 0
+Number of test cases considered : 24
+
+
+Writing output into odd_one.txt .....
+
+Accuracy : 33.333333333333336
+
+Done.
+
+
+
+
+Fill in the blanks.......
+
+
+Total number of test cases : 30
+
+
+Writing output into sentence_fill.txt .....
+
+Accuracy : 48.275862068965516
+
+Done.
+
+
+
+cbow_models/vector_0_05_200_6.txt
+
+Semantic relatedness checking.......
+
+
+Total number of test cases : 31
+Number of test cases ignored due to the absence of words in the vocabulary : 1
+Number of test cases considered : 30
+
+Writing output into cosine_val.txt ....
+
+Done.
+
+
+
+
+Synonymn detection.......
+
+
+Total number of test cases : 35
+Number of test cases ignored due to the absence of words in the vocabulary : 15
+Number of test cases considered : 20
+
+
+Writing output into synonymn.txt .....
+
+Accuracy : 55.0
+
+Done.
+
+
+
+
+Word Analogy.......
+
+
+Total number of test cases : 92
+Number of test cases ignored due to the absence of words in the vocabulary : 88
+Number of test cases considered : 4
+
+
+Writing output into analogy.txt .....
+Done.
+
+
+
+
+Odd one out.......
+
+
+Total number of test cases : 24
+Number of test cases ignored due to the absence of words in the vocabulary : 0
+Number of test cases considered : 24
+
+
+Writing output into odd_one.txt .....
+
+Accuracy : 33.333333333333336
+
+Done.
+
+
+
+
+Fill in the blanks.......
+
+
+Total number of test cases : 30
+
+
+Writing output into sentence_fill.txt .....
+
+Accuracy : 48.275862068965516
+
+Done.
+
+
+
+cbow_models/vector_2_0_05_200_4.txt
+
+Semantic relatedness checking.......
+
+
+Total number of test cases : 31
+Number of test cases ignored due to the absence of words in the vocabulary : 12
+Number of test cases considered : 19
+
+Writing output into cosine_val.txt ....
+
+Done.
+
+
+
+
+Synonymn detection.......
+
+
+Total number of test cases : 35
+Number of test cases ignored due to the absence of words in the vocabulary : 27
+Number of test cases considered : 8
+
+
+Writing output into synonymn.txt .....
+
+Accuracy : 25.0
+
+Done.
+
+
+
+
+Word Analogy.......
+
+
+Total number of test cases : 92
+Number of test cases ignored due to the absence of words in the vocabulary : 90
+Number of test cases considered : 2
+
+
+Writing output into analogy.txt .....
+Done.
+
+
+
+
+Odd one out.......
+
+
+Total number of test cases : 24
+Number of test cases ignored due to the absence of words in the vocabulary : 11
+Number of test cases considered : 13
+
+
+Writing output into odd_one.txt .....
+
+Accuracy : 23.076923076923077
+
+Done.
+
+
+
+
+Fill in the blanks.......
+
+
+Total number of test cases : 30
+
+
+Writing output into sentence_fill.txt .....
+
+Accuracy : 41.37931034482759
+
+Done.
+
+
+
+cbow_models/vector_4_0_05_200_4.txt
+
+Semantic relatedness checking.......
+
+
+Total number of test cases : 31
+Number of test cases ignored due to the absence of words in the vocabulary : 5
+Number of test cases considered : 26
+
+Writing output into cosine_val.txt ....
+
+Done.
+
+
+
+
+Synonymn detection.......
+
+
+Total number of test cases : 35
+Number of test cases ignored due to the absence of words in the vocabulary : 22
+Number of test cases considered : 13
+
+
+Writing output into synonymn.txt .....
+
+Accuracy : 30.76923076923077
+
+Done.
+
+
+
+
+Word Analogy.......
+
+
+Total number of test cases : 92
+Number of test cases ignored due to the absence of words in the vocabulary : 90
+Number of test cases considered : 2
+
+
+Writing output into analogy.txt .....
+Done.
+
+
+
+
+Odd one out.......
+
+
+Total number of test cases : 24
+Number of test cases ignored due to the absence of words in the vocabulary : 7
+Number of test cases considered : 17
+
+
+Writing output into odd_one.txt .....
+
+Accuracy : 11.764705882352942
+
+Done.
+
+
+
+
+Fill in the blanks.......
+
+
+Total number of test cases : 30
+
+
+Writing output into sentence_fill.txt .....
+
+Accuracy : 31.03448275862069
+
+Done.
+
+
+
+cbow_models/vector_8_0_05_200_4.txt
+
+Semantic relatedness checking.......
+
+
+Total number of test cases : 31
+Number of test cases ignored due to the absence of words in the vocabulary : 1
+Number of test cases considered : 30
+
+Writing output into cosine_val.txt ....
+
+Done.
+
+
+
+
+Synonymn detection.......
+
+
+Total number of test cases : 35
+Number of test cases ignored due to the absence of words in the vocabulary : 15
+Number of test cases considered : 20
+
+
+Writing output into synonymn.txt .....
+
+Accuracy : 40.0
+
+Done.
+
+
+
+
+Word Analogy.......
+
+
+Total number of test cases : 92
+Number of test cases ignored due to the absence of words in the vocabulary : 88
+Number of test cases considered : 4
+
+
+Writing output into analogy.txt .....
+Done.
+
+
+
+
+Odd one out.......
+
+
+Total number of test cases : 24
+Number of test cases ignored due to the absence of words in the vocabulary : 2
+Number of test cases considered : 22
+
+
+Writing output into odd_one.txt .....
+
+Accuracy : 22.727272727272727
+
+Done.
+
+
+
+
+Fill in the blanks.......
+
+
+Total number of test cases : 30
+
+
+Writing output into sentence_fill.txt .....
+
+Accuracy : 44.827586206896555
+
+Done.
+
+
+
+cbow_models/vector_12_0_05_200_4.txt
+
+Semantic relatedness checking.......
+
+
+Total number of test cases : 31
+Number of test cases ignored due to the absence of words in the vocabulary : 1
+Number of test cases considered : 30
+
+Writing output into cosine_val.txt ....
+
+Done.
+
+
+
+
+Synonymn detection.......
+
+
+Total number of test cases : 35
+Number of test cases ignored due to the absence of words in the vocabulary : 15
+Number of test cases considered : 20
+
+
+Writing output into synonymn.txt .....
+
+Accuracy : 50.0
+
+Done.
+
+
+
+
+Word Analogy.......
+
+
+Total number of test cases : 92
+Number of test cases ignored due to the absence of words in the vocabulary : 88
+Number of test cases considered : 4
+
+
+Writing output into analogy.txt .....
+Done.
+
+
+
+
+Odd one out.......
+
+
+Total number of test cases : 24
+Number of test cases ignored due to the absence of words in the vocabulary : 0
+Number of test cases considered : 24
+
+
+Writing output into odd_one.txt .....
+
+Accuracy : 20.833333333333332
+
+Done.
+
+
+
+
+Fill in the blanks.......
+
+
+Total number of test cases : 30
+
+
+Writing output into sentence_fill.txt .....
+
+Accuracy : 44.827586206896555
+
+Done.
+
+
+
+skipgram/vector_neg5_0_025_100_4.txt
+
+Semantic relatedness checking.......
+
+
+Total number of test cases : 31
+Number of test cases ignored due to the absence of words in the vocabulary : 1
+Number of test cases considered : 30
+
+Writing output into cosine_val.txt ....
+
+Done.
+
+
+
+
+Synonymn detection.......
+
+
+Total number of test cases : 35
+Number of test cases ignored due to the absence of words in the vocabulary : 15
+Number of test cases considered : 20
+
+
+Writing output into synonymn.txt .....
+
+Accuracy : 55.0
+
+Done.
+
+
+
+
+Word Analogy.......
+
+
+Total number of test cases : 92
+Number of test cases ignored due to the absence of words in the vocabulary : 88
+Number of test cases considered : 4
+
+
+Writing output into analogy.txt .....
+Done.
+
+
+
+
+Odd one out.......
+
+
+Total number of test cases : 24
+Number of test cases ignored due to the absence of words in the vocabulary : 0
+Number of test cases considered : 24
+
+
+Writing output into odd_one.txt .....
+
+Accuracy : 41.666666666666664
+
+Done.
+
+
+
+
+Fill in the blanks.......
+
+
+Total number of test cases : 30
+
+
+Writing output into sentence_fill.txt .....
+
+Accuracy : 48.275862068965516
+
+Done.
+
+
+
+skipgram/vector_neg5_0_025_200_4.txt
+
+Semantic relatedness checking.......
+
+
+Total number of test cases : 31
+Number of test cases ignored due to the absence of words in the vocabulary : 1
+Number of test cases considered : 30
+
+Writing output into cosine_val.txt ....
+
+Done.
+
+
+
+
+Synonymn detection.......
+
+
+Total number of test cases : 35
+Number of test cases ignored due to the absence of words in the vocabulary : 15
+Number of test cases considered : 20
+
+
+Writing output into synonymn.txt .....
+
+Accuracy : 65.0
+
+Done.
+
+
+
+
+Word Analogy.......
+
+
+Total number of test cases : 92
+Number of test cases ignored due to the absence of words in the vocabulary : 88
+Number of test cases considered : 4
+
+
+Writing output into analogy.txt .....
+Done.
+
+
+
+
+Odd one out.......
+
+
+Total number of test cases : 24
+Number of test cases ignored due to the absence of words in the vocabulary : 0
+Number of test cases considered : 24
+
+
+Writing output into odd_one.txt .....
+
+Accuracy : 37.5
+
+Done.
+
+
+
+
+Fill in the blanks.......
+
+
+Total number of test cases : 30
+
+
+Writing output into sentence_fill.txt .....
+
+Accuracy : 44.827586206896555
+
+Done.
+
+
+
+skipgram/vector_neg5_0_025_300_4.txt
+
+Semantic relatedness checking.......
+
+
+Total number of test cases : 31
+Number of test cases ignored due to the absence of words in the vocabulary : 1
+Number of test cases considered : 30
+
+Writing output into cosine_val.txt ....
+
+Done.
+
+
+
+
+Synonymn detection.......
+
+
+Total number of test cases : 35
+Number of test cases ignored due to the absence of words in the vocabulary : 15
+Number of test cases considered : 20
+
+
+Writing output into synonymn.txt .....
+
+Accuracy : 60.0
+
+Done.
+
+
+
+
+Word Analogy.......
+
+
+Total number of test cases : 92
+Number of test cases ignored due to the absence of words in the vocabulary : 88
+Number of test cases considered : 4
+
+
+Writing output into analogy.txt .....
+Done.
+
+
+
+
+Odd one out.......
+
+
+Total number of test cases : 24
+Number of test cases ignored due to the absence of words in the vocabulary : 0
+Number of test cases considered : 24
+
+
+Writing output into odd_one.txt .....
+
+Accuracy : 37.5
+
+Done.
+
+
+
+
+Fill in the blanks.......
+
+
+Total number of test cases : 30
+
+
+Writing output into sentence_fill.txt .....
+
+Accuracy : 41.37931034482759
+
+Done.
+
+
+
+skipgram/vector_neg5_0_050_200_4.txt
+
+Semantic relatedness checking.......
+
+
+Total number of test cases : 31
+Number of test cases ignored due to the absence of words in the vocabulary : 1
+Number of test cases considered : 30
+
+Writing output into cosine_val.txt ....
+
+Done.
+
+
+
+
+Synonymn detection.......
+
+
+Total number of test cases : 35
+Number of test cases ignored due to the absence of words in the vocabulary : 15
+Number of test cases considered : 20
+
+
+Writing output into synonymn.txt .....
+
+Accuracy : 70.0
+
+Done.
+
+
+
+
+Word Analogy.......
+
+
+Total number of test cases : 92
+Number of test cases ignored due to the absence of words in the vocabulary : 88
+Number of test cases considered : 4
+
+
+Writing output into analogy.txt .....
+Done.
+
+
+
+
+Odd one out.......
+
+
+Total number of test cases : 24
+Number of test cases ignored due to the absence of words in the vocabulary : 0
+Number of test cases considered : 24
+
+
+Writing output into odd_one.txt .....
+
+Accuracy : 41.666666666666664
+
+Done.
+
+
+
+
+Fill in the blanks.......
+
+
+Total number of test cases : 30
+
+
+Writing output into sentence_fill.txt .....
+
+Accuracy : 44.827586206896555
+
+Done.
+
+
+
+skipgram/vector_neg5_0_075_200_4.txt
+
+Semantic relatedness checking.......
+
+
+Total number of test cases : 31
+Number of test cases ignored due to the absence of words in the vocabulary : 1
+Number of test cases considered : 30
+
+Writing output into cosine_val.txt ....
+
+Done.
+
+
+
+
+Synonymn detection.......
+
+
+Total number of test cases : 35
+Number of test cases ignored due to the absence of words in the vocabulary : 15
+Number of test cases considered : 20
+
+
+Writing output into synonymn.txt .....
+
+Accuracy : 70.0
+
+Done.
+
+
+
+
+Word Analogy.......
+
+
+Total number of test cases : 92
+Number of test cases ignored due to the absence of words in the vocabulary : 88
+Number of test cases considered : 4
+
+
+Writing output into analogy.txt .....
+Done.
+
+
+
+
+Odd one out.......
+
+
+Total number of test cases : 24
+Number of test cases ignored due to the absence of words in the vocabulary : 0
+Number of test cases considered : 24
+
+
+Writing output into odd_one.txt .....
+
+Accuracy : 45.833333333333336
+
+Done.
+
+
+
+
+Fill in the blanks.......
+
+
+Total number of test cases : 30
+
+
+Writing output into sentence_fill.txt .....
+
+Accuracy : 55.172413793103445
+
+Done.
+
+
+
+skipgram/vector_neg5_0_090_200_4.txt
+
+Semantic relatedness checking.......
+
+
+Total number of test cases : 31
+Number of test cases ignored due to the absence of words in the vocabulary : 1
+Number of test cases considered : 30
+
+Writing output into cosine_val.txt ....
+
+Done.
+
+
+
+
+Synonymn detection.......
+
+
+Total number of test cases : 35
+Number of test cases ignored due to the absence of words in the vocabulary : 15
+Number of test cases considered : 20
+
+
+Writing output into synonymn.txt .....
+
+Accuracy : 70.0
+
+Done.
+
+
+
+
+Word Analogy.......
+
+
+Total number of test cases : 92
+Number of test cases ignored due to the absence of words in the vocabulary : 88
+Number of test cases considered : 4
+
+
+Writing output into analogy.txt .....
+Done.
+
+
+
+
+Odd one out.......
+
+
+Total number of test cases : 24
+Number of test cases ignored due to the absence of words in the vocabulary : 0
+Number of test cases considered : 24
+
+
+Writing output into odd_one.txt .....
+
+Accuracy : 62.5
+
+Done.
+
+
+
+
+Fill in the blanks.......
+
+
+Total number of test cases : 30
+
+
+Writing output into sentence_fill.txt .....
+
+Accuracy : 58.62068965517241
+
+Done.
+
+
+
+
+skipgram/vector_neg5_0_025_200_3.txt
+
+Semantic relatedness checking.......
+
+
+Total number of test cases : 31
+Number of test cases ignored due to the absence of words in the vocabulary : 1
+Number of test cases considered : 30
+
+Writing output into cosine_val.txt ....
+
+Done.
+
+
+
+
+Synonymn detection.......
+
+
+Total number of test cases : 35
+Number of test cases ignored due to the absence of words in the vocabulary : 16
+Number of test cases considered : 19
+
+
+Writing output into synonymn.txt .....
+
+Accuracy : 52.63157894736842
+
+Done.
+
+
+
+
+Word Analogy.......
+
+
+Total number of test cases : 92
+Number of test cases ignored due to the absence of words in the vocabulary : 88
+Number of test cases considered : 4
+
+
+Writing output into analogy.txt .....
+Done.
+
+
+
+
+Odd one out.......
+
+
+Total number of test cases : 24
+Number of test cases ignored due to the absence of words in the vocabulary : 0
+Number of test cases considered : 24
+
+
+Writing output into odd_one.txt .....
+
+Accuracy : 29.166666666666668
+
+Done.
+
+
+
+
+Fill in the blanks.......
+
+
+Total number of test cases : 30
+
+
+Writing output into sentence_fill.txt .....
+
+Accuracy : 44.827586206896555
+
+Done.
+
+
+
+skipgram/vector_neg5_0_025_200_5.txt
+
+Semantic relatedness checking.......
+
+
+Total number of test cases : 31
+Number of test cases ignored due to the absence of words in the vocabulary : 1
+Number of test cases considered : 30
+
+Writing output into cosine_val.txt ....
+
+Done.
+
+
+
+
+Synonymn detection.......
+
+
+Total number of test cases : 35
+Number of test cases ignored due to the absence of words in the vocabulary : 16
+Number of test cases considered : 19
+
+
+Writing output into synonymn.txt .....
+
+Accuracy : 57.89473684210526
+
+Done.
+
+
+
+
+Word Analogy.......
+
+
+Total number of test cases : 92
+Number of test cases ignored due to the absence of words in the vocabulary : 88
+Number of test cases considered : 4
+
+
+Writing output into analogy.txt .....
+Done.
+
+
+
+
+Odd one out.......
+
+
+Total number of test cases : 24
+Number of test cases ignored due to the absence of words in the vocabulary : 0
+Number of test cases considered : 24
+
+
+Writing output into odd_one.txt .....
+
+Accuracy : 33.333333333333336
+
+Done.
+
+
+
+
+Fill in the blanks.......
+
+
+Total number of test cases : 30
+
+
+Writing output into sentence_fill.txt .....
+
+Accuracy : 41.37931034482759
+
+Done.
+
+
+
+skipgram/vector_neg5_0_025_200_6.txt
+
+Semantic relatedness checking.......
+
+
+Total number of test cases : 31
+Number of test cases ignored due to the absence of words in the vocabulary : 1
+Number of test cases considered : 30
+
+Writing output into cosine_val.txt ....
+
+Done.
+
+
+
+
+Synonymn detection.......
+
+
+Total number of test cases : 35
+Number of test cases ignored due to the absence of words in the vocabulary : 16
+Number of test cases considered : 19
+
+
+Writing output into synonymn.txt .....
+
+Accuracy : 63.1578947368421
+
+Done.
+
+
+
+
+Word Analogy.......
+
+
+Total number of test cases : 92
+Number of test cases ignored due to the absence of words in the vocabulary : 88
+Number of test cases considered : 4
+
+
+Writing output into analogy.txt .....
+Done.
+
+
+
+
+Odd one out.......
+
+
+Total number of test cases : 24
+Number of test cases ignored due to the absence of words in the vocabulary : 0
+Number of test cases considered : 24
+
+
+Writing output into odd_one.txt .....
+
+Accuracy : 37.5
+
+Done.
+
+
+
+
+Fill in the blanks.......
+
+
+Total number of test cases : 30
+
+
+Writing output into sentence_fill.txt .....
+
+Accuracy : 44.827586206896555
+
+Done.
+
+
+
+skipgram/vector_neg5_2_0_025_200_4.txt
+
+Semantic relatedness checking.......
+
+
+Total number of test cases : 31
+Number of test cases ignored due to the absence of words in the vocabulary : 12
+Number of test cases considered : 19
+
+Writing output into cosine_val.txt ....
+
+Done.
+
+
+
+
+Synonymn detection.......
+
+
+Total number of test cases : 35
+Number of test cases ignored due to the absence of words in the vocabulary : 28
+Number of test cases considered : 7
+
+
+Writing output into synonymn.txt .....
+
+Accuracy : 28.571428571428573
+
+Done.
+
+
+
+
+Word Analogy.......
+
+
+Total number of test cases : 92
+Number of test cases ignored due to the absence of words in the vocabulary : 90
+Number of test cases considered : 2
+
+
+Writing output into analogy.txt .....
+Done.
+
+
+
+
+Odd one out.......
+
+
+Total number of test cases : 24
+Number of test cases ignored due to the absence of words in the vocabulary : 11
+Number of test cases considered : 13
+
+
+Writing output into odd_one.txt .....
+
+Accuracy : 23.076923076923077
+
+Done.
+
+
+
+
+Fill in the blanks.......
+
+
+Total number of test cases : 30
+
+
+Writing output into sentence_fill.txt .....
+
+Accuracy : 37.93103448275862
+
+Done.
+
+
+
+skipgram/vector_neg5_4_0_025_200_4.txt
+
+Semantic relatedness checking.......
+
+
+Total number of test cases : 31
+Number of test cases ignored due to the absence of words in the vocabulary : 5
+Number of test cases considered : 26
+
+Writing output into cosine_val.txt ....
+
+Done.
+
+
+
+
+Synonymn detection.......
+
+
+Total number of test cases : 35
+Number of test cases ignored due to the absence of words in the vocabulary : 23
+Number of test cases considered : 12
+
+
+Writing output into synonymn.txt .....
+
+Accuracy : 25.0
+
+Done.
+
+
+
+
+Word Analogy.......
+
+
+Total number of test cases : 92
+Number of test cases ignored due to the absence of words in the vocabulary : 90
+Number of test cases considered : 2
+
+
+Writing output into analogy.txt .....
+Done.
+
+
+
+
+Odd one out.......
+
+
+Total number of test cases : 24
+Number of test cases ignored due to the absence of words in the vocabulary : 7
+Number of test cases considered : 17
+
+
+Writing output into odd_one.txt .....
+
+Accuracy : 41.1764705882353
+
+Done.
+
+
+
+
+Fill in the blanks.......
+
+
+Total number of test cases : 30
+
+
+Writing output into sentence_fill.txt .....
+
+Accuracy : 34.48275862068966
+
+Done.
+
+
+
+skipgram/vector_neg5_8_0_025_200_4.txt
+
+Semantic relatedness checking.......
+
+
+Total number of test cases : 31
+Number of test cases ignored due to the absence of words in the vocabulary : 1
+Number of test cases considered : 30
+
+Writing output into cosine_val.txt ....
+
+Done.
+
+
+
+
+Synonymn detection.......
+
+
+Total number of test cases : 35
+Number of test cases ignored due to the absence of words in the vocabulary : 16
+Number of test cases considered : 19
+
+
+Writing output into synonymn.txt .....
+
+Accuracy : 31.57894736842105
+
+Done.
+
+
+
+
+Word Analogy.......
+
+
+Total number of test cases : 92
+Number of test cases ignored due to the absence of words in the vocabulary : 88
+Number of test cases considered : 4
+
+
+Writing output into analogy.txt .....
+Done.
+
+
+
+
+Odd one out.......
+
+
+Total number of test cases : 24
+Number of test cases ignored due to the absence of words in the vocabulary : 2
+Number of test cases considered : 22
+
+
+Writing output into odd_one.txt .....
+
+Accuracy : 27.272727272727273
+
+Done.
+
+
+
+
+Fill in the blanks.......
+
+
+Total number of test cases : 30
+
+
+Writing output into sentence_fill.txt .....
+
+Accuracy : 37.93103448275862
+
+Done.
+
+
+
+skipgram/vector_neg5_12_0_025_200_4.txt
+
+Semantic relatedness checking.......
+
+
+Total number of test cases : 31
+Number of test cases ignored due to the absence of words in the vocabulary : 1
+Number of test cases considered : 30
+
+Writing output into cosine_val.txt ....
+
+Done.
+
+
+
+
+Synonymn detection.......
+
+
+Total number of test cases : 35
+Number of test cases ignored due to the absence of words in the vocabulary : 16
+Number of test cases considered : 19
+
+
+Writing output into synonymn.txt .....
+
+Accuracy : 52.63157894736842
+
+Done.
+
+
+
+
+Word Analogy.......
+
+
+Total number of test cases : 92
+Number of test cases ignored due to the absence of words in the vocabulary : 88
+Number of test cases considered : 4
+
+
+Writing output into analogy.txt .....
+Done.
+
+
+
+
+Odd one out.......
+
+
+Total number of test cases : 24
+Number of test cases ignored due to the absence of words in the vocabulary : 0
+Number of test cases considered : 24
+
+
+Writing output into odd_one.txt .....
+
+Accuracy : 37.5
+
+Done.
+
+
+
+
+Fill in the blanks.......
+
+
+Total number of test cases : 30
+
+
+Writing output into sentence_fill.txt .....
+
+Accuracy : 44.827586206896555
+
+Done.
+
+
+
+skipgram/vector_neg3_0_025_200_4.txt
+
+Semantic relatedness checking.......
+
+
+Total number of test cases : 31
+Number of test cases ignored due to the absence of words in the vocabulary : 1
+Number of test cases considered : 30
+
+Writing output into cosine_val.txt ....
+
+Done.
+
+
+
+
+Synonymn detection.......
+
+
+Total number of test cases : 35
+Number of test cases ignored due to the absence of words in the vocabulary : 16
+Number of test cases considered : 19
+
+
+Writing output into synonymn.txt .....
+
+Accuracy : 52.63157894736842
+
+Done.
+
+
+
+
+Word Analogy.......
+
+
+Total number of test cases : 92
+Number of test cases ignored due to the absence of words in the vocabulary : 88
+Number of test cases considered : 4
+
+
+Writing output into analogy.txt .....
+Done.
+
+
+
+
+Odd one out.......
+
+
+Total number of test cases : 24
+Number of test cases ignored due to the absence of words in the vocabulary : 0
+Number of test cases considered : 24
+
+
+Writing output into odd_one.txt .....
+
+Accuracy : 37.5
+
+Done.
+
+
+
+
+Fill in the blanks.......
+
+
+Total number of test cases : 30
+
+
+Writing output into sentence_fill.txt .....
+
+Accuracy : 51.724137931034484
+
+Done.
+
+
+
+skipgram/vector_neg4_0_025_200_4.txt
+
+Semantic relatedness checking.......
+
+
+Total number of test cases : 31
+Number of test cases ignored due to the absence of words in the vocabulary : 1
+Number of test cases considered : 30
+
+Writing output into cosine_val.txt ....
+
+Done.
+
+
+
+
+Synonymn detection.......
+
+
+Total number of test cases : 35
+Number of test cases ignored due to the absence of words in the vocabulary : 16
+Number of test cases considered : 19
+
+
+Writing output into synonymn.txt .....
+
+Accuracy : 57.89473684210526
+
+Done.
+
+
+
+
+Word Analogy.......
+
+
+Total number of test cases : 92
+Number of test cases ignored due to the absence of words in the vocabulary : 88
+Number of test cases considered : 4
+
+
+Writing output into analogy.txt .....
+Done.
+
+
+
+
+Odd one out.......
+
+
+Total number of test cases : 24
+Number of test cases ignored due to the absence of words in the vocabulary : 0
+Number of test cases considered : 24
+
+
+Writing output into odd_one.txt .....
+
+Accuracy : 37.5
+
+Done.
+
+
+
+
+Fill in the blanks.......
+
+
+Total number of test cases : 30
+
+
+Writing output into sentence_fill.txt .....
+
+Accuracy : 51.724137931034484
+
+Done.
+
+
+
+skipgram/vector_neg6_0_025_200_4.txt
+
+Semantic relatedness checking.......
+
+
+Total number of test cases : 31
+Number of test cases ignored due to the absence of words in the vocabulary : 1
+Number of test cases considered : 30
+
+Writing output into cosine_val.txt ....
+
+Done.
+
+
+
+
+Synonymn detection.......
+
+
+Total number of test cases : 35
+Number of test cases ignored due to the absence of words in the vocabulary : 16
+Number of test cases considered : 19
+
+
+Writing output into synonymn.txt .....
+
+Accuracy : 57.89473684210526
+
+Done.
+
+
+
+
+Word Analogy.......
+
+
+Total number of test cases : 92
+Number of test cases ignored due to the absence of words in the vocabulary : 88
+Number of test cases considered : 4
+
+
+Writing output into analogy.txt .....
+Done.
+
+
+
+
+Odd one out.......
+
+
+Total number of test cases : 24
+Number of test cases ignored due to the absence of words in the vocabulary : 0
+Number of test cases considered : 24
+
+
+Writing output into odd_one.txt .....
+
+Accuracy : 37.5
+
+Done.
+
+
+
+
+Fill in the blanks.......
+
+
+Total number of test cases : 30
+
+
+Writing output into sentence_fill.txt .....
+
+Accuracy : 44.827586206896555
+
+Done.
+
+
+
+skipgram/vector_neg7_0_025_200_4.txt
+
+Semantic relatedness checking.......
+
+
+Total number of test cases : 31
+Number of test cases ignored due to the absence of words in the vocabulary : 1
+Number of test cases considered : 30
+
+Writing output into cosine_val.txt ....
+
+Done.
+
+
+
+
+Synonymn detection.......
+
+
+Total number of test cases : 35
+Number of test cases ignored due to the absence of words in the vocabulary : 16
+Number of test cases considered : 19
+
+
+Writing output into synonymn.txt .....
+
+Accuracy : 63.1578947368421
+
+Done.
+
+
+
+
+Word Analogy.......
+
+
+Total number of test cases : 92
+Number of test cases ignored due to the absence of words in the vocabulary : 88
+Number of test cases considered : 4
+
+
+Writing output into analogy.txt .....
+Done.
+
+
+
+
+Odd one out.......
+
+
+Total number of test cases : 24
+Number of test cases ignored due to the absence of words in the vocabulary : 0
+Number of test cases considered : 24
+
+
+Writing output into odd_one.txt .....
+
+Accuracy : 37.5
+
+Done.
+
+
+
+
+Fill in the blanks.......
+
+
+Total number of test cases : 30
+
+
+Writing output into sentence_fill.txt .....
+
+Accuracy : 44.827586206896555
+
+Done.
+
+
+
+skipgram/vector_neg5_0_010_200_4.txt
+
+Semantic relatedness checking.......
+
+
+Total number of test cases : 31
+Number of test cases ignored due to the absence of words in the vocabulary : 1
+Number of test cases considered : 30
+
+Writing output into cosine_val.txt ....
+
+Done.
+
+
+
+
+Synonymn detection.......
+
+
+Total number of test cases : 35
+Number of test cases ignored due to the absence of words in the vocabulary : 16
+Number of test cases considered : 19
+
+
+Writing output into synonymn.txt .....
+
+Accuracy : 26.31578947368421
+
+Done.
+
+
+
+
+Word Analogy.......
+
+
+Total number of test cases : 92
+Number of test cases ignored due to the absence of words in the vocabulary : 88
+Number of test cases considered : 4
+
+
+Writing output into analogy.txt .....
+Done.
+
+
+
+
+Odd one out.......
+
+
+Total number of test cases : 24
+Number of test cases ignored due to the absence of words in the vocabulary : 0
+Number of test cases considered : 24
+
+
+Writing output into odd_one.txt .....
+
+Accuracy : 25.0
+
+Done.
+
+
+
+
+Fill in the blanks.......
+
+
+Total number of test cases : 30
+
+
+Writing output into sentence_fill.txt .....
+
+Accuracy : 48.275862068965516
+
+Done.

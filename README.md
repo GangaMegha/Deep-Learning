@@ -1,5 +1,5 @@
-# DL-Assignments
-This repository consists of both Python as well as Tensorflow scripts implementing : 
+# Deep Learning - Assignments
+This repository consists of both Python and Tensorflow scripts implementing : 
 
 ## 1 : Backpropagation :
        Implementation of a neural network in python, with tunable number of layers and number of neurons in each layer along with hyper parameters such as 
@@ -10,9 +10,12 @@ This repository consists of both Python as well as Tensorflow scripts implementi
        
 ## 2 : CNN :
       Implementation of a Convolutional Neural Network using Tensorflow (used to train Fashion MNIST Dataset)
+      
+## 3 : Word Embeddings :
+	Scaped data from over 30 websites to successfully construct a corpus of nearly 15 million words in Malayalam Language. A comparitive study was conducted on the performance of existing word2vec models on this corpus and developed evaluation metrics and test cases were tested.
 
-## 4 : seq2seq :
-		Implementation of Encoder-Decoder based model with and without Attention mechanism using uni-directional and bi-directional LSTM cells on Weather Gov Dataset.
+## 4 : seq2seq (Weather data summariser):
+		Implementation of Encoder-Decoder based model for table summarisation with and without Attention mechanism using uni-directional and bi-directional LSTM cells on Weather Gov Dataset.
       
 ## 5 : RBM and Gibbs Sampling :
       Implementaion of Restricted Boltzmann machine and Gibbs sampling using python. The dataset utilised is yet again Fashion MNIST.

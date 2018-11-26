@@ -2,16 +2,16 @@
 This repository consists of both Python and Tensorflow scripts implementing : 
 
 ## 1 : Backpropagation :
-Implementation of a neural network in python, with tunable number of layers and number of neurons in each layer along with hyper parameters such as 
+Implementation of a neural network in python, with tunable number of layers and number of neurons in each layer along with hyper parameters such as :
 
        Activation : sigmoid, tanh       
        Loss       : Cross Entropy, Squared Error
        Optimiser  : Adam, GD, Momentum, NAG
        Anneal     : True, Falses                  
-specified as runtime arguements
+specified as runtime arguements.
        
 ## 2 : CNN :
-Implementation of a Convolutional Neural Network using Tensorflow (used to train Fashion MNIST Dataset)
+Implementation of a Convolutional Neural Network using Tensorflow (used to train Fashion MNIST Dataset).
       
 ## 3 : Word Embeddings :
 Scaped data from over 30 websites to successfully construct a corpus of nearly 15 million words in Malayalam Language. A comparitive study was conducted on the performance of existing word2vec models on this corpus and developed evaluation metrics and test cases were tested.

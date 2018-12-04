@@ -27,3 +27,5 @@ For RBMs, T-SNE plots have been depicted for the data for various values of lear
 For Gibbs sampling, convergence to true distribution was achieved even after starting from a random point.
       
  
+
+The reports can be found in the corresponding folders.
